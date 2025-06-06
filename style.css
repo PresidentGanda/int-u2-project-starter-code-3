@@ -7,16 +7,22 @@ header {
     text-align:center;
 }
 
+h1{
+    margin-left: 5%;
+}
 .section{
-    /* margin-left: 10px; */
+    margin-left: 5%;
     display:flex;
 }
 
 .text{
-    margin-left:50px;
-    margin-right: 20px;
+    margin-left:15%;
+    margin-right: 5%;
 }
 
-.pictures{
-    
+
+
+img{
+    width: 500px;
+    height: 300px;
 }
