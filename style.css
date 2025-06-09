@@ -14,7 +14,7 @@ h1{
 .section{
     margin-left: 5%;
     display:flex;
-    border-color: black;
+    border-color: rgb(0, 0, 0);
     border-radius:1px;
 }
 
@@ -29,9 +29,9 @@ h1{
 img{
     width: 500px;
     height: 300px;
-    border-radius: 2px;
+    border-radius: 25px;
     padding: 10px 15px;
-    background-color: black;
+    background-color: rgb(66, 61, 61);
 }
 
 body{
